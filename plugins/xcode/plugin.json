@@ -1,0 +1,23 @@
+{
+  "name": "xcode",
+  "version": "27.2 (27B48)",
+  "description": "Xcode MCP&Skills.",
+  "author": {
+    "name": "$H!NDGEKYUME",
+    "email": "cto@whatsinlab.com"
+  },
+  "homepage": "https://github.com/shindgew/agents",
+  "repository": "https://github.com/shindgew/agents",
+  "license": "MIT",
+  "keywords": [
+    "xcode",
+    "swift",
+    "swiftui",
+    "ios",
+    "macos",
+    "apple",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
